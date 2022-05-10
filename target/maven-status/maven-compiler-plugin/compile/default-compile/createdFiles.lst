@@ -1,0 +1,9 @@
+com\company\Bot.class
+com\company\entity\Phrases.class
+com\company\entity\Meanings.class
+com\company\entity\Definition.class
+com\company\Main.class
+com\company\service\Service.class
+com\company\entity\Words.class
+com\company\entity\Examples.class
+com\company\entity\Core.class
